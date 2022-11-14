@@ -1,8 +1,8 @@
 # Leonid Kudriashov
 #### Junior Frontend Developer
 # Contacts
-address: Izmir, Turkey
-e-mail: homer2292@gmail.com
+address: Izmir, Turkey <br>
+e-mail: homer2292@gmail.com <br>
 tg: @doodoo75
 # Summary
 
