@@ -43,8 +43,8 @@ Full-time  5y, 3m
 
 
 EPAM UpSkillMe <br>
-IT Fundamentals
-RS school
+IT Fundamentals <br>
+RS school <br>
 2022  
 
 ### Languages:
