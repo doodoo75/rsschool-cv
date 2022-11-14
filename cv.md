@@ -6,7 +6,8 @@ e-mail: homer2292@gmail.com <br>
 tg: @doodoo75
 # Summary
 
-Junior Frontend developer with 5+ years on system administrator position in the large retail company with 350+ users and 12 servers. Used to work in a small team.
+Junior Frontend developer with 5+ years on system administrator position in the large retail company with 350+ users and 12 servers. Used to work in a small team. <br>
+I want learn something new and I was inspired by my beautifull lady-designer. Front-end looks extremely fit for me, and after learning some basics i still think so!
 
 
 # Experience
@@ -36,6 +37,7 @@ Full-time  5y, 3m
 -EDS management <br>
 -KB documentation <br>
 -Administration of a local network of 350+ people <br>
+-VMware
 
 
 
@@ -43,11 +45,10 @@ Full-time  5y, 3m
 
 
 EPAM UpSkillMe <br>
-IT Fundamentals <br>
 RS school <br>
 2022  
 
 ### Languages:
 - Russian – native speaker <br>
-- English – B1(EPAM examinator)
+- English – B1(EPAM UpSkillMe english test)
 
