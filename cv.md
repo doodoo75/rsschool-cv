@@ -16,38 +16,38 @@ Full-time  5y, 3m
 
 **System administrator**
 
--SCS
--monitoring and incident response
--Zabbix administration
--Lansweeper reports and administration
--Active directory administration
--CRM
--VoIP
--ASC administration
--CCTV systems (trassir) administration
--Windows|Windows server OS administration
--Remote administration
--Remote hardware setup
--Diagnostics and repair of PC and peripheral equipment
--Backups
--Tech support for users
--Uninterrupted operation of the network and network equipment
--Network administration
--EDS management
--KB documentation
--Administration of a local network of 350+ people
+-SCS <br>
+-monitoring and incident response <br>
+-Zabbix administration <br>
+-Lansweeper reports and administration <br>
+-Active directory administration <br>
+-CRM <br>
+-VoIP <br>
+-ASC administration <br>
+-CCTV systems (trassir) administration <br>
+-Windows|Windows server OS administration <br>
+-Remote administration <br>
+-Remote hardware setup <br>
+-Diagnostics and repair of PC and peripheral equipment <br>
+-Backups <br>
+-Tech support for users <br>
+-Uninterrupted operation of the network and network equipment <br>
+-Network administration <br>
+-EDS management <br>
+-KB documentation <br>
+-Administration of a local network of 350+ people <br>
 
 
 
 ## Education
 
 
-EPAM UpSkillMe
+EPAM UpSkillMe <br>
 IT Fundamentals
 RS school
 2022  
 
 ### Languages:
-- Russian – native speaker
+- Russian – native speaker <br>
 - English – B1(EPAM examinator)
 
